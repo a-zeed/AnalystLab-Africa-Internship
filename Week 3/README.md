@@ -56,11 +56,5 @@ Retail sales analysis to identify top customers, product performance, and revenu
 
 ---
 
-# 📷 Dashboards Preview
-
-Add screenshots inside each project folder.
-
----
-
 # 🚀 Summary
 This portfolio demonstrates end-to-end data analysis from raw datasets to actionable business insights using SQL and Power BI.
