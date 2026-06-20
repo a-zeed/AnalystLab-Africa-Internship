@@ -12,6 +12,8 @@ Each folder represents a weekly learning module, including data cleaning, analys
 - E-commerce Transactions (Online Retail)
 - Netflix Movies & TV Shows
 
+  ## week 3:  (Upcoming)
+
 Contents:
 - Jupyter Notebooks
 - Cleaned Datasets
@@ -19,31 +21,11 @@ Contents:
 
 ---
 
-## Week 3–4 (Upcoming)
-- To be updated once new datasets are released
-
----
-
-# 📊 Week 1–2 Project Summary
-
-## 📌 E-commerce Dataset
-- Data cleaning and preprocessing
-- Revenue and customer analysis
-- Sales trend exploration
-- Key insight: UK dominates revenue, strong customer concentration (Pareto pattern)
-
-## 📌 Netflix Dataset
-- Content type distribution analysis
-- Country-based content analysis
-- Trend of content additions over time
-- Key insight: Netflix is movie-heavy with major growth between 2016–2020
-
----
-
 # 🛠 Tools Used
 - Python
 - Pandas
 - Matplotlib
+- SQL
 
 ---
 
