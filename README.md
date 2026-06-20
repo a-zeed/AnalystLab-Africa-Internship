@@ -14,6 +14,8 @@ Each folder represents a weekly learning module, including data cleaning, analys
 
   ## week 3:  (Upcoming)
 
+  
+---
 Contents:
 - Jupyter Notebooks
 - Cleaned Datasets
