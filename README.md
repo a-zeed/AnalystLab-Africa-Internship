@@ -25,6 +25,7 @@ Contents:
 - Python
 - Pandas
 - Matplotlib
+- MicrosoftPower BI
 - SQL
 
 ---
