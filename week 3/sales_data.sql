@@ -1,0 +1,166 @@
+CREATE DATABASE sales_db;
+USE sales_db;
+CREATE TABLE sales (
+    ORDERNUMBER INT,
+    QUANTITYORDERED INT,
+    PRICEEACH DECIMAL(10,2),
+    ORDERLINENUMBER INT,
+    SALES DECIMAL(10,2),
+    ORDERDATE VARCHAR(50),
+    STATUS VARCHAR(50),
+    QTR_ID INT,
+    MONTH_ID INT,
+    YEAR_ID INT,
+    PRODUCTLINE VARCHAR(100),
+    MSRP INT,
+    PRODUCTCODE VARCHAR(50),
+    CUSTOMERNAME VARCHAR(100),
+    PHONE VARCHAR(50),
+    ADDRESSLINE1 VARCHAR(100),
+    ADDRESSLINE2 VARCHAR(100),
+    CITY VARCHAR(50),
+    STATE VARCHAR(50),
+    POSTALCODE VARCHAR(50),
+    COUNTRY VARCHAR(50),
+    TERRITORY VARCHAR(50),
+    CONTACTLASTNAME VARCHAR(50),
+    CONTACTFIRSTNAME VARCHAR(50),
+    DEALSIZE VARCHAR(50)
+);
+
+SELECT COUNT(*) FROM sales;
+
+SELECT * FROM sales LIMIT 10;
+
+-- Null check
+SELECT 
+    SUM(CASE WHEN SALES IS NULL THEN 1 ELSE 0 END) AS missing_sales,
+    SUM(CASE WHEN CUSTOMERNAME IS NULL THEN 1 ELSE 0 END) AS missing_customer
+FROM sales;
+
+-- Duplicate check
+SELECT ORDERNUMBER, COUNT(*)
+FROM sales
+GROUP BY ORDERNUMBER
+HAVING COUNT(*) > 1;
+
+-- TOTAL REVENUE (CORE KPI)
+SELECT 
+    ROUND(SUM(SALES), 2) AS total_revenue
+FROM sales;
+
+SELECT MIN(ORDERDATE), MAX(ORDERDATE)
+FROM sales;
+
+-- TOTAL ORDERS
+SELECT 
+    COUNT(DISTINCT ORDERNUMBER) AS total_orders
+FROM sales;
+
+-- TOTAL CUSTOMERS
+SELECT 
+    COUNT(DISTINCT CUSTOMERNAME) AS total_customers
+FROM sales;
+
+-- REVENUE BY COUNTRY
+SELECT 
+    COUNTRY,
+    ROUND(SUM(SALES), 2) AS revenue
+FROM sales
+GROUP BY COUNTRY
+ORDER BY revenue DESC;
+
+-- TOP PRODUCTS
+SELECT 
+    PRODUCTLINE,
+    ROUND(SUM(SALES), 2) AS revenue
+FROM sales
+GROUP BY PRODUCTLINE
+ORDER BY revenue DESC;
+
+-- TOP CUSTOMERS
+SELECT 
+    CUSTOMERNAME,
+    ROUND(SUM(SALES), 2) AS total_spent
+FROM sales
+GROUP BY CUSTOMERNAME
+ORDER BY total_spent DESC
+LIMIT 10;
+
+-- MONTHLY SALES TREND
+SELECT 
+    STR_TO_DATE(ORDERDATE, '%m/%d/%Y %H:%i') AS order_date,
+    SALES
+FROM sales;
+
+SELECT 
+    DATE_FORMAT(STR_TO_DATE(ORDERDATE, '%m/%d/%Y %H:%i'), '%Y-%m') AS month,
+    ROUND(SUM(SALES), 2) AS revenue
+FROM sales
+GROUP BY month
+ORDER BY month;
+
+-- Top product per country
+SELECT *
+FROM (
+    SELECT 
+        COUNTRY,
+        PRODUCTLINE,
+        SUM(SALES) AS revenue,
+        ROW_NUMBER() OVER (
+            PARTITION BY COUNTRY 
+            ORDER BY SUM(SALES) DESC
+        ) AS rn
+    FROM sales
+    GROUP BY COUNTRY, PRODUCTLINE
+) t
+WHERE rn = 1;
+
+
+-- Product performance
+SELECT 
+    s.PRODUCTCODE,
+    s.PRODUCTLINE,
+    SUM(s.SALES) AS total_revenue
+FROM sales s
+GROUP BY s.PRODUCTCODE, s.PRODUCTLINE;
+
+-- Top customers vs average spending
+SELECT 
+    CUSTOMERNAME,
+    total_spent
+FROM (
+    SELECT 
+        CUSTOMERNAME,
+        SUM(SALES) AS total_spent
+    FROM sales
+    GROUP BY CUSTOMERNAME
+) t
+WHERE total_spent > (
+    SELECT AVG(total_sales)
+    FROM (
+        SELECT SUM(SALES) AS total_sales
+        FROM sales
+        GROUP BY CUSTOMERNAME
+    ) x
+);
+
+-- Rank customers
+SELECT 
+    CUSTOMERNAME,
+    SUM(SALES) AS total_spent,
+    ROW_NUMBER() OVER (ORDER BY SUM(SALES) DESC) AS rn
+FROM sales
+GROUP BY CUSTOMERNAME;
+
+-- rank within country
+SELECT 
+    COUNTRY,
+    CUSTOMERNAME,
+    SUM(SALES) AS total_spent,
+    RANK() OVER (
+        PARTITION BY COUNTRY 
+        ORDER BY SUM(SALES) DESC
+    ) AS country_rank
+FROM sales
+GROUP BY COUNTRY, CUSTOMERNAME;
