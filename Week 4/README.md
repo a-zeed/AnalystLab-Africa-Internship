@@ -109,9 +109,10 @@ The Consumer segment accounted for over 50% of total sales.
 
 ## Dashboard Preview
 
-### Main Dashboard
+## Main Dashboard
 
-![Dashboard Screenshot](images/dashboard.png)
+
+![Dashboard Overview](screenshots/dashboard_overview.png)
 
 ---
 
