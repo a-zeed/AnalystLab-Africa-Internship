@@ -16,12 +16,6 @@ Each folder represents a weekly learning module, including data cleaning, analys
 
   
 ---
-Contents:
-- Jupyter Notebooks
-- Cleaned Datasets
-- One-page Summary Reports
-
----
 
 # 🛠 Tools Used
 - Python
@@ -29,7 +23,7 @@ Contents:
 - Matplotlib
 - MicrosoftPower BI
 - SQL
-
+- Microsoft PowerBI
 ---
 
 # 👤 Author
