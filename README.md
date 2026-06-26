@@ -1,30 +1,81 @@
 # 📊 AnalystLab Africa — Data Analytics Internship Portfolio
 
-This repository contains all weekly tasks completed during the AnalystLab Africa Data Analytics Internship Program (Batch B).
+This repository contains projects completed during the AnalystLab Africa Data Analytics Internship Program (Batch B).
 
-Each folder represents a weekly learning module, including data cleaning, analysis, and visualization projects.
+Each folder represents a weekly learning module covering data cleaning, analysis, SQL querying, and dashboard development.
 
 ---
 
 # 📁 Project Structure
 
-## Week 1–2: Data Cleaning & Exploratory Data Analysis
-- E-commerce Transactions (Online Retail)
-- Netflix Movies & TV Shows
+## Week 1–2: Data Cleaning & Exploratory Data Analysis (EDA)
 
-  ## week 3:  (Upcoming)
+### Datasets
 
-  
+* Online Retail (E-Commerce Transactions)
+* Netflix Movies & TV Shows
+
+### Skills
+
+* Data Cleaning
+* Exploratory Data Analysis
+* Data Visualization
+
 ---
 
-# 🛠 Tools Used For The Projects
-- Python
-- Pandas
-- Matplotlib
-- MicrosoftPower BI
-- SQL
-- Microsoft PowerBI
+## Week 3: SQL & Data Querying
+
+### Datasets
+
+* Chinook Database
+* Sample Sales Dataset
+
+### Skills
+
+* SQL Queries
+* Joins
+* Subqueries
+* Window Functions
+* Business Analysis
+
+---
+
+## Week 4: Data Visualization & Dashboarding
+
+### Dataset
+
+* Superstore Sales Dataset
+
+### Tool
+
+* Microsoft Power BI
+
+### Skills
+
+* Dashboard Development
+* KPI Analysis
+* Data Storytelling
+* Interactive Reporting
+
+---
+
+# 🛠 Tools & Technologies
+
+* Python
+* Pandas
+* SQL
+* MySQL
+* Microsoft Excel
+* Microsoft Power BI
+* Power Query
+* DAX
+
 ---
 
 # 👤 Author
-Azeemah Sullayman
+
+**Azeemah Sullayman**
+
+GitHub: https://github.com/a-zeed
+
+LinkedIn: https://www.linkedin.com/in/azeemah-sullayman
