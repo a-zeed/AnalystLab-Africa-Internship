@@ -17,7 +17,7 @@ Each folder represents a weekly learning module, including data cleaning, analys
   
 ---
 
-# 🛠 Tools Used
+# 🛠 Tools Used For The Projects
 - Python
 - Pandas
 - Matplotlib
