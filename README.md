@@ -59,6 +59,25 @@ Each folder represents a weekly learning module covering data cleaning, analysis
 
 ---
 
+## 📅 Week 5: Business Analytics Case Study
+
+### Dataset
+- Telco Customer Churn Dataset
+
+### Tools
+- Python
+- Jupyter Notebook
+- Microsoft Power BI
+
+### Skills
+- Business Problem Identification
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Customer Churn Analysis
+- KPI Development
+
+---
+
 # 🛠 Tools & Technologies
 
 * Python
