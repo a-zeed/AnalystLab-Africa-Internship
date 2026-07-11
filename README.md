@@ -1,14 +1,14 @@
 # 📊 AnalystLab Africa — Data Analytics Internship Portfolio
 
-This repository contains projects completed during the AnalystLab Africa Data Analytics Internship Program (Batch B).
+This repository showcases projects completed during the **AnalystLab Africa Data Analytics Internship Program (Batch B)**.
 
-Each folder represents a weekly learning module covering data cleaning, analysis, SQL querying, and dashboard development.
+Each project demonstrates practical data analytics skills acquired throughout the internship, including data cleaning, exploratory data analysis, SQL querying, dashboard development, business analytics, and advanced Python techniques.
 
 ---
 
 # 📁 Project Structure
 
-## Week 1–2: Data Cleaning & Exploratory Data Analysis (EDA)
+## 📅 Week 1–2: Data Cleaning & Exploratory Data Analysis (EDA)
 
 ### Datasets
 
@@ -18,12 +18,14 @@ Each folder represents a weekly learning module covering data cleaning, analysis
 ### Skills
 
 * Data Cleaning
-* Exploratory Data Analysis
+* Exploratory Data Analysis (EDA)
 * Data Visualization
+* Data Wrangling
+* Insight Generation
 
 ---
 
-## Week 3: SQL & Data Querying
+## 📅 Week 3: SQL & Data Querying
 
 ### Datasets
 
@@ -36,17 +38,18 @@ Each folder represents a weekly learning module covering data cleaning, analysis
 * Joins
 * Subqueries
 * Window Functions
+* Common Table Expressions (CTEs)
 * Business Analysis
 
 ---
 
-## Week 4: Data Visualization & Dashboarding
+## 📅 Week 4: Data Visualization & Dashboarding
 
 ### Dataset
 
 * Superstore Sales Dataset
 
-### Tool
+### Tools
 
 * Microsoft Power BI
 
@@ -54,27 +57,57 @@ Each folder represents a weekly learning module covering data cleaning, analysis
 
 * Dashboard Development
 * KPI Analysis
-* Data Storytelling
 * Interactive Reporting
+* Data Storytelling
+* Business Intelligence
 
 ---
 
 ## 📅 Week 5: Business Analytics Case Study
 
 ### Dataset
-- Telco Customer Churn Dataset
+
+* Telco Customer Churn Dataset
 
 ### Tools
-- Python
-- Jupyter Notebook
-- Microsoft Power BI
+
+* Python
+* Jupyter Notebook
+* Microsoft Power BI
 
 ### Skills
-- Business Problem Identification
-- Data Cleaning & Preprocessing
-- Exploratory Data Analysis (EDA)
-- Customer Churn Analysis
-- KPI Development
+
+* Business Problem Identification
+* Data Cleaning & Preprocessing
+* Exploratory Data Analysis (EDA)
+* Customer Churn Analysis
+* KPI Development
+* Business Recommendations
+
+---
+
+## 📅 Week 6: Advanced Python Analysis
+
+### Dataset
+
+* Apple Inc. (AAPL) Historical Stock Market Data (Yahoo Finance)
+
+### Tools
+
+* Python
+* Jupyter Notebook
+* Pandas
+* NumPy
+* Matplotlib
+
+### Skills
+
+* Data Transformation with Pandas
+* Time-Series Analysis
+* Feature Engineering
+* Financial Data Analysis
+* Rolling Averages & Volatility Analysis
+* Data Visualization
 
 ---
 
@@ -82,12 +115,33 @@ Each folder represents a weekly learning module covering data cleaning, analysis
 
 * Python
 * Pandas
+* NumPy
+* Matplotlib
 * SQL
 * MySQL
 * Microsoft Excel
 * Microsoft Power BI
 * Power Query
 * DAX
+* Jupyter Notebook
+* Git & GitHub
+
+---
+
+# 🚀 Key Competencies
+
+Throughout this internship, I developed practical experience in:
+
+* Data Cleaning & Preparation
+* Exploratory Data Analysis (EDA)
+* SQL for Data Analysis
+* Business Intelligence & Dashboard Development
+* Data Storytelling
+* Time-Series Analysis
+* Feature Engineering
+* Financial Data Analysis
+* Business Analytics
+* Data Visualization
 
 ---
 
@@ -95,6 +149,7 @@ Each folder represents a weekly learning module covering data cleaning, analysis
 
 **Azeemah Sullayman**
 
-GitHub: https://github.com/a-zeed
+🔗 GitHub: https://github.com/a-zeed
 
-LinkedIn: https://www.linkedin.com/in/azeemah-sullayman
+🔗 LinkedIn: https://www.linkedin.com/in/azeemah-sullayman
+h-sullayman
