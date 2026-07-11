@@ -152,4 +152,3 @@ Throughout this internship, I developed practical experience in:
 🔗 GitHub: https://github.com/a-zeed
 
 🔗 LinkedIn: https://www.linkedin.com/in/azeemah-sullayman
-h-sullayman
