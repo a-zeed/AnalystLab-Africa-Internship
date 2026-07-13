@@ -2,7 +2,7 @@
 
 This repository showcases projects completed during the **AnalystLab Africa Data Analytics Internship Program (Batch B)**.
 
-Each project demonstrates practical data analytics skills acquired throughout the internship, including data cleaning, exploratory data analysis, SQL querying, dashboard development, business analytics, and advanced Python techniques.
+Each project demonstrates practical data analytics skills developed throughout the internship, including data cleaning, exploratory data analysis (EDA), SQL querying, dashboard development, business analytics, financial analysis, and ETL (Extract, Transform, Load) pipeline development using real-world datasets and APIs.
 
 ---
 
@@ -12,16 +12,16 @@ Each project demonstrates practical data analytics skills acquired throughout th
 
 ### Datasets
 
-* Online Retail (E-Commerce Transactions)
-* Netflix Movies & TV Shows
+- Online Retail (E-Commerce Transactions)
+- Netflix Movies & TV Shows
 
 ### Skills
 
-* Data Cleaning
-* Exploratory Data Analysis (EDA)
-* Data Visualization
-* Data Wrangling
-* Insight Generation
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Data Wrangling
+- Insight Generation
 
 ---
 
@@ -29,17 +29,17 @@ Each project demonstrates practical data analytics skills acquired throughout th
 
 ### Datasets
 
-* Chinook Database
-* Sample Sales Dataset
+- Chinook Database
+- Sample Sales Dataset
 
 ### Skills
 
-* SQL Queries
-* Joins
-* Subqueries
-* Window Functions
-* Common Table Expressions (CTEs)
-* Business Analysis
+- SQL Queries
+- Joins
+- Subqueries
+- Window Functions
+- Common Table Expressions (CTEs)
+- Business Analysis
 
 ---
 
@@ -47,19 +47,19 @@ Each project demonstrates practical data analytics skills acquired throughout th
 
 ### Dataset
 
-* Superstore Sales Dataset
+- Superstore Sales Dataset
 
 ### Tools
 
-* Microsoft Power BI
+- Microsoft Power BI
 
 ### Skills
 
-* Dashboard Development
-* KPI Analysis
-* Interactive Reporting
-* Data Storytelling
-* Business Intelligence
+- Dashboard Development
+- KPI Analysis
+- Interactive Reporting
+- Data Storytelling
+- Business Intelligence
 
 ---
 
@@ -67,22 +67,22 @@ Each project demonstrates practical data analytics skills acquired throughout th
 
 ### Dataset
 
-* Telco Customer Churn Dataset
+- Telco Customer Churn Dataset
 
 ### Tools
 
-* Python
-* Jupyter Notebook
-* Microsoft Power BI
+- Python
+- Jupyter Notebook
+- Microsoft Power BI
 
 ### Skills
 
-* Business Problem Identification
-* Data Cleaning & Preprocessing
-* Exploratory Data Analysis (EDA)
-* Customer Churn Analysis
-* KPI Development
-* Business Recommendations
+- Business Problem Identification
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Customer Churn Analysis
+- KPI Development
+- Business Recommendations
 
 ---
 
@@ -90,41 +90,72 @@ Each project demonstrates practical data analytics skills acquired throughout th
 
 ### Dataset
 
-* Apple Inc. (AAPL) Historical Stock Market Data (Yahoo Finance)
+- Apple Inc. (AAPL) Historical Stock Market Data (Yahoo Finance)
 
 ### Tools
 
-* Python
-* Jupyter Notebook
-* Pandas
-* NumPy
-* Matplotlib
+- Python
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Matplotlib
 
 ### Skills
 
-* Data Transformation with Pandas
-* Time-Series Analysis
-* Feature Engineering
-* Financial Data Analysis
-* Rolling Averages & Volatility Analysis
-* Data Visualization
+- Data Transformation with Pandas
+- Time-Series Analysis
+- Feature Engineering
+- Financial Data Analysis
+- Rolling Averages & Volatility Analysis
+- Data Visualization
+
+---
+
+## 📅 Week 7: Data Pipelines & Automation
+
+### Dataset / Data Source
+
+- OpenWeather API (Real-Time Weather Data)
+
+### Tools
+
+- Python
+- Requests
+- Pandas
+- Matplotlib
+- Jupyter Notebook
+- OpenWeather API
+
+### Skills
+
+- ETL (Extract, Transform, Load)
+- API Integration
+- JSON Data Extraction
+- Data Transformation
+- Data Cleaning
+- Data Validation
+- CSV Data Storage
+- Data Visualization
+- Basic Weather Data Analysis
 
 ---
 
 # 🛠 Tools & Technologies
 
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* SQL
-* MySQL
-* Microsoft Excel
-* Microsoft Power BI
-* Power Query
-* DAX
-* Jupyter Notebook
-* Git & GitHub
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Requests
+- SQL
+- MySQL
+- Microsoft Excel
+- Microsoft Power BI
+- Power Query
+- DAX
+- Jupyter Notebook
+- Git & GitHub
+- OpenWeather API
 
 ---
 
@@ -132,16 +163,19 @@ Each project demonstrates practical data analytics skills acquired throughout th
 
 Throughout this internship, I developed practical experience in:
 
-* Data Cleaning & Preparation
-* Exploratory Data Analysis (EDA)
-* SQL for Data Analysis
-* Business Intelligence & Dashboard Development
-* Data Storytelling
-* Time-Series Analysis
-* Feature Engineering
-* Financial Data Analysis
-* Business Analytics
-* Data Visualization
+- Data Cleaning & Preparation
+- Exploratory Data Analysis (EDA)
+- SQL for Data Analysis
+- Business Intelligence & Dashboard Development
+- ETL (Extract, Transform, Load)
+- API Integration
+- Data Transformation
+- Data Storytelling
+- Time-Series Analysis
+- Feature Engineering
+- Financial Data Analysis
+- Business Analytics
+- Data Visualization
 
 ---
 
@@ -149,6 +183,6 @@ Throughout this internship, I developed practical experience in:
 
 **Azeemah Sullayman**
 
-🔗 GitHub: https://github.com/a-zeed
+🔗 **GitHub:** https://github.com/a-zeed
 
-🔗 LinkedIn: https://www.linkedin.com/in/azeemah-sullayman
+🔗 **LinkedIn:** https://www.linkedin.com/in/azeemah-sullayman
