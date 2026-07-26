@@ -1,0 +1,452 @@
+Country Name,Country Code,Indicator Name,Indicator Code,Year,Value
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,1960,93.13700904244176
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,1960,37.207
+Nigeria,NGA,"Population, total",SP.POP.TOTL,1960,45053782.0
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1961,0.1917954895722289
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,1961,97.1375281143562
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,1961,37.427
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,1961,2.05520464816869
+Nigeria,NGA,"Population, total",SP.POP.TOTL,1961,45989310.0
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1962,4.102992588680138
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,1962,104.53249553394302
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,1962,37.606
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,1962,2.09998826453802
+Nigeria,NGA,"Population, total",SP.POP.TOTL,1962,46965292.0
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1963,8.578618915297014
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,1963,107.67574135894394
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,1963,37.806
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,1963,2.12414776592407
+Nigeria,NGA,"Population, total",SP.POP.TOTL,1963,47973575.0
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1964,4.950488666041551
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,1964,113.29734567187508
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,1964,37.98
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,1964,2.14151540554873
+Nigeria,NGA,"Population, total",SP.POP.TOTL,1964,49012016.0
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1965,4.884976834129077
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,1965,117.28722682473438
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,1965,38.221
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,1965,2.16912890314877
+Nigeria,NGA,"Population, total",SP.POP.TOTL,1965,50086764.0
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1966,-4.250514184155136
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,1966,124.3824401762526
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,1966,38.355
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,1966,2.17529193795192
+Nigeria,NGA,"Population, total",SP.POP.TOTL,1966,51188234.0
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1967,-15.743628208204896
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,1967,99.50149066046966
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,1967,37.497
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,1967,2.13540609474411
+Nigeria,NGA,"Population, total",SP.POP.TOTL,1967,52293065.0
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1968,-1.2483602458122365
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,1968,97.33720812559643
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,1968,38.642
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,1968,2.15607095595453
+Nigeria,NGA,"Population, total",SP.POP.TOTL,1968,53432783.0
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1969,24.19738394568081
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,1969,121.43666330769707
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,1969,38.946
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,1969,2.21937460327587
+Nigeria,NGA,"Population, total",SP.POP.TOTL,1969,54631914.0
+Nigeria,NGA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,1970,0.516126661404071
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1970,25.007241929389597
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,1970,224.46293599595015
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,1970,40.008
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,1970,2.28359240382951
+Nigeria,NGA,"Population, total",SP.POP.TOTL,1970,55893838.0
+Nigeria,NGA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,1971,0.7450919417819384
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1971,14.23753155625083
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,1971,160.47925584111283
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,1971,40.606
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,1971,2.3356437200389
+Nigeria,NGA,"Population, total",SP.POP.TOTL,1971,57214684.0
+Nigeria,NGA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,1972,0.9428268248926636
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1972,3.3642620350363046
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,1972,209.45477629434453
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,1972,41.273
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,1972,2.39539467623687
+Nigeria,NGA,"Population, total",SP.POP.TOTL,1972,58601748.0
+Nigeria,NGA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,1973,1.105857765816227
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1973,5.392760483959094
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,1973,252.36903245286777
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,1973,41.831
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,1973,2.49480838624679
+Nigeria,NGA,"Population, total",SP.POP.TOTL,1973,60082139.0
+Nigeria,NGA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,1974,1.3619190305235105
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1974,11.160674545486188
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,1974,402.8369997826852
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,1974,42.489
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,1974,2.62332417262733
+Nigeria,NGA,"Population, total",SP.POP.TOTL,1974,61679144.0
+Nigeria,NGA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,1975,1.0094792189628852
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1975,-5.227747555320789
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,1975,438.0788139167954
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,1975,43.054
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,1975,2.768857941331
+Nigeria,NGA,"Population, total",SP.POP.TOTL,1975,63410815.0
+Nigeria,NGA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,1976,1.1523888201982997
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1976,9.042351726302073
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,1976,556.3896877198777
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,1976,44.186
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,1976,2.87143514738127
+Nigeria,NGA,"Population, total",SP.POP.TOTL,1976,65258009.0
+Nigeria,NGA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,1977,0.9885893555683168
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1977,6.024117849541682
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,1977,535.9653078173286
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,1977,44.847
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,1977,2.98390652773332
+Nigeria,NGA,"Population, total",SP.POP.TOTL,1977,67234590.0
+Nigeria,NGA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,1978,1.0030416637601316
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1978,-5.764158393902818
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,1978,526.8958529284758
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,1978,45.348
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,1978,3.06398428248064
+Nigeria,NGA,"Population, total",SP.POP.TOTL,1978,69326532.0
+Nigeria,NGA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,1979,1.3905418821346684
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1979,6.759430935191773
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,1979,660.9940408642932
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,1979,45.738
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,1979,3.08451719174793
+Nigeria,NGA,"Population, total",SP.POP.TOTL,1979,71498242.0
+Nigeria,NGA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,1980,1.2146822486399682
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1980,4.204831044272922
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,1980,870.3599346820567
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,1980,45.959
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,1980,3.12066355658369
+Nigeria,NGA,"Population, total",SP.POP.TOTL,1980,73764641.0
+Nigeria,NGA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,1981,0.9637600664236364
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1981,-13.127880485051406
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,1981,2162.209954360747
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,1981,46.309
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,1981,3.07495335898149
+Nigeria,NGA,"Population, total",SP.POP.TOTL,1981,76068103.0
+Nigeria,NGA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,1982,0.8917665017183686
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1982,-6.803388815348015
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,1982,1821.532654823869
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,1982,46.437
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,1982,2.99231883880151
+Nigeria,NGA,"Population, total",SP.POP.TOTL,1982,78378701.0
+Nigeria,NGA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,1983,0.8700996267199216
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1983,-10.92408503393878
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,1983,1207.0737456534855
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,1983,46.442
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,1983,2.59377141123926
+Nigeria,NGA,"Population, total",SP.POP.TOTL,1983,80438260.0
+Nigeria,NGA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,1984,0.8519027046882416
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1984,-1.1156232171682063
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,1984,890.4341063323023
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,1984,46.339
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,1984,2.56288295556477
+Nigeria,NGA,"Population, total",SP.POP.TOTL,1984,82526443.0
+Nigeria,NGA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,1985,0.8624669990648657
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1985,5.913027459113934
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,1985,868.6405405488935
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,1985,46.193
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,1985,2.83314546882475
+Nigeria,NGA,"Population, total",SP.POP.TOTL,1985,84897973.0
+Nigeria,NGA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,1986,0.8201423557555451
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1986,0.0609452742066878
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,1986,628.2484537185358
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,1986,45.953
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,1986,2.71663331013825
+Nigeria,NGA,"Population, total",SP.POP.TOTL,1986,87235953.0
+Nigeria,NGA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,1987,0.7561167820471258
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1987,3.200125467029437
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,1987,587.9566134340895
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,1987,45.89
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,1987,2.66463093630457
+Nigeria,NGA,"Population, total",SP.POP.TOTL,1987,89591716.0
+Nigeria,NGA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,1988,0.8370259146671124
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1988,7.334025487587155
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,1988,539.5394683971656
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,1988,45.834
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,1988,2.67440624256127
+Nigeria,NGA,"Population, total",SP.POP.TOTL,1988,92020090.0
+Nigeria,NGA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,1989,0.8411641495774074
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1989,1.919381295895548
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,1989,465.4880895321879
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,1989,45.83
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,1989,2.69210483580786
+Nigeria,NGA,"Population, total",SP.POP.TOTL,1989,94531014.0
+Nigeria,NGA,Access to electricity (% of population),EG.ELC.ACCS.ZS,1990,27.3
+Nigeria,NGA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,1990,0.773377106941681
+Nigeria,NGA,Forest area (% of land area),AG.LND.FRST.ZS,1990,29.12490529991107
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1990,11.776885934206732
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,1990,556.3764491309016
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,1990,45.733
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,1990,2.70288804324942
+Nigeria,NGA,"Population, total",SP.POP.TOTL,1990,97120925.0
+Nigeria,NGA,Access to electricity (% of population),EG.ELC.ACCS.ZS,1991,35.2346000671387
+Nigeria,NGA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,1991,0.8157457666384457
+Nigeria,NGA,Forest area (% of land area),AG.LND.FRST.ZS,1991,28.945600974999174
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1991,0.358352601622002
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,1991,596.9387957107224
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,1991,45.483
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,1991,2.64110316371064
+Nigeria,NGA,"Population, total",SP.POP.TOTL,1991,99720162.0
+Nigeria,NGA,Access to electricity (% of population),EG.ELC.ACCS.ZS,1992,36.0994606018066
+Nigeria,NGA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,1992,0.8704072381747606
+Nigeria,NGA,Forest area (% of land area),AG.LND.FRST.ZS,1992,28.766296650087288
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1992,4.631192946109877
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,1992,508.5159056827852
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,1992,45.587
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,1992,2.62528760714312
+Nigeria,NGA,"Population, total",SP.POP.TOTL,1992,102372770.0
+Nigeria,NGA,Access to electricity (% of population),EG.ELC.ACCS.ZS,1993,36.9636459350586
+Nigeria,NGA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,1993,0.8242959905973694
+Nigeria,NGA,Forest area (% of land area),AG.LND.FRST.ZS,1993,28.5869923251754
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1993,-2.035118773995393
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,1993,539.5732022975423
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,1993,45.783
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,1993,2.65014775362862
+Nigeria,NGA,"Population, total",SP.POP.TOTL,1993,105122069.0
+Nigeria,NGA,Access to electricity (% of population),EG.ELC.ACCS.ZS,1994,37.8264694213867
+Nigeria,NGA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,1994,0.7494989100641888
+Nigeria,NGA,Forest area (% of land area),AG.LND.FRST.ZS,1994,28.40768800026352
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1994,-1.8149244851792328
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,1994,744.8842471513773
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,1994,45.748
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,1994,2.64135723468862
+Nigeria,NGA,"Population, total",SP.POP.TOTL,1994,107935714.0
+Nigeria,NGA,Access to electricity (% of population),EG.ELC.ACCS.ZS,1995,38.6872520446777
+Nigeria,NGA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,1995,0.801782698246737
+Nigeria,NGA,Forest area (% of land area),AG.LND.FRST.ZS,1995,28.228383675351623
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1995,-0.0726647640626794
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,1995,1271.616173531988
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,1995,45.87
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,1995,2.63662927453146
+Nigeria,NGA,"Population, total",SP.POP.TOTL,1995,110819428.0
+Nigeria,NGA,Access to electricity (% of population),EG.ELC.ACCS.ZS,1996,39.5453186035156
+Nigeria,NGA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,1996,0.911020186677168
+Nigeria,NGA,Forest area (% of land area),AG.LND.FRST.ZS,1996,28.049079350439737
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1996,4.195924046667088
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,1996,1632.7246937027587
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,1996,45.833
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,1996,2.61429682326517
+Nigeria,NGA,"Population, total",SP.POP.TOTL,1996,113754779.0
+Nigeria,NGA,Access to electricity (% of population),EG.ELC.ACCS.ZS,1997,40.3999824523926
+Nigeria,NGA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,1997,0.863537147151956
+Nigeria,NGA,Forest area (% of land area),AG.LND.FRST.ZS,1997,27.869775025527847
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1997,2.9370994192310604
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,1997,1720.275409493957
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,1997,45.96
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,1997,2.60308705392213
+Nigeria,NGA,"Population, total",SP.POP.TOTL,1997,116754792.0
+Nigeria,NGA,Access to electricity (% of population),EG.ELC.ACCS.ZS,1998,41.2505683898926
+Nigeria,NGA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,1998,0.7622415966376388
+Nigeria,NGA,Forest area (% of land area),AG.LND.FRST.ZS,1998,27.69047070061596
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1998,2.581254101908087
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,1998,1822.4699845247333
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,1998,46.148
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,1998,2.61337639810203
+Nigeria,NGA,"Population, total",SP.POP.TOTL,1998,119846254.0
+Nigeria,NGA,Access to electricity (% of population),EG.ELC.ACCS.ZS,1999,44.9
+Nigeria,NGA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,1999,0.7313227138957598
+Nigeria,NGA,Forest area (% of land area),AG.LND.FRST.ZS,1999,27.51116637570408
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1999,0.584126892882125
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,1999,480.6693639418046
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,1999,46.609
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,1999,2.63592921799734
+Nigeria,NGA,"Population, total",SP.POP.TOTL,1999,123047320.0
+Nigeria,NGA,Access to electricity (% of population),EG.ELC.ACCS.ZS,2000,43.2
+Nigeria,NGA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,2000,0.7927909699265787
+Nigeria,NGA,Forest area (% of land area),AG.LND.FRST.ZS,2000,27.33186205079219
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2000,5.015934759365464
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,2000,547.3182989033786
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2000,47.143
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,2000,2.67439784501828
+Nigeria,NGA,"Population, total",SP.POP.TOTL,2000,126382494.0
+Nigeria,NGA,Access to electricity (% of population),EG.ELC.ACCS.ZS,2001,43.9
+Nigeria,NGA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,2001,0.8188970811803045
+Nigeria,NGA,Forest area (% of land area),AG.LND.FRST.ZS,2001,27.15255662790825
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2001,5.917684649244251
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,2001,566.4282318129331
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2001,47.549
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,2001,2.7163954653619
+Nigeria,NGA,"Population, total",SP.POP.TOTL,2001,129862595.0
+Nigeria,NGA,Access to electricity (% of population),EG.ELC.ACCS.ZS,2002,44.6
+Nigeria,NGA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,2002,0.7208950785921082
+Nigeria,NGA,Forest area (% of land area),AG.LND.FRST.ZS,2002,26.97325120502432
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2002,15.329155740961768
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,2002,712.1648520776855
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2002,48.02
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,2002,2.74147056608815
+Nigeria,NGA,"Population, total",SP.POP.TOTL,2002,133471989.0
+Nigeria,NGA,Access to electricity (% of population),EG.ELC.ACCS.ZS,2003,52.2
+Nigeria,NGA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,2003,0.7843536892772999
+Nigeria,NGA,Forest area (% of land area),AG.LND.FRST.ZS,2003,26.793945782140387
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2003,7.347194967932992
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,2003,763.3887453672226
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2003,48.618
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,2003,2.75673506428828
+Nigeria,NGA,"Population, total",SP.POP.TOTL,2003,137202644.0
+Nigeria,NGA,Access to electricity (% of population),EG.ELC.ACCS.ZS,2004,46.1
+Nigeria,NGA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,2004,0.7369210095107267
+Nigeria,NGA,Forest area (% of land area),AG.LND.FRST.ZS,2004,26.61464035925645
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2004,9.250558229231686
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,2004,962.48104194733
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2004,49.148
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,2004,2.77053967849452
+Nigeria,NGA,"Population, total",SP.POP.TOTL,2004,141057045.0
+Nigeria,NGA,Access to electricity (% of population),EG.ELC.ACCS.ZS,2005,46.8
+Nigeria,NGA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,2005,0.7100506861759407
+Nigeria,NGA,Forest area (% of land area),AG.LND.FRST.ZS,2005,26.435334936372524
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2005,6.438516525359248
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,2005,1211.3770350438622
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2005,49.538
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,2005,2.76883385211034
+Nigeria,NGA,"Population, total",SP.POP.TOTL,2005,145017253.0
+Nigeria,NGA,Access to electricity (% of population),EG.ELC.ACCS.ZS,2006,47.6
+Nigeria,NGA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,2006,0.6219899263827725
+Nigeria,NGA,Forest area (% of land area),AG.LND.FRST.ZS,2006,26.25602951348859
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2006,6.059428032024911
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,2006,1599.5389155636483
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2006,49.876
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,2006,2.76124698861505
+Nigeria,NGA,"Population, total",SP.POP.TOTL,2006,149077334.0
+Nigeria,NGA,Access to electricity (% of population),EG.ELC.ACCS.ZS,2007,50.1
+Nigeria,NGA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,2007,0.550572897626193
+Nigeria,NGA,Forest area (% of land area),AG.LND.FRST.ZS,2007,26.076724090604653
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2007,6.591130360668672
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,2007,1815.5269754582685
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2007,50.381
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,2007,2.77180099910734
+Nigeria,NGA,"Population, total",SP.POP.TOTL,2007,153267261.0
+Nigeria,NGA,Access to electricity (% of population),EG.ELC.ACCS.ZS,2008,50.3
+Nigeria,NGA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,2008,0.5811395784386936
+Nigeria,NGA,Forest area (% of land area),AG.LND.FRST.ZS,2008,25.89741866772072
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2008,6.764472777842627
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,2008,2154.1054354536427
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2008,50.748
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,2008,2.78453384410814
+Nigeria,NGA,"Population, total",SP.POP.TOTL,2008,157595014.0
+Nigeria,NGA,Access to electricity (% of population),EG.ELC.ACCS.ZS,2009,50.0
+Nigeria,NGA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,2009,0.4993376590249012
+Nigeria,NGA,Forest area (% of land area),AG.LND.FRST.ZS,2009,25.718113244836783
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2009,8.03692510100366
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,2009,1820.4863385478188
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2009,51.08
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,2009,2.78730820935027
+Nigeria,NGA,"Population, total",SP.POP.TOTL,2009,162049464.0
+Nigeria,NGA,Access to electricity (% of population),EG.ELC.ACCS.ZS,2010,48.0
+Nigeria,NGA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,2010,0.5665024308328409
+Nigeria,NGA,Forest area (% of land area),AG.LND.FRST.ZS,2010,25.53880782195285
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2010,8.00565591623166
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,2010,2202.25672957344
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2010,51.315
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,2010,2.795149361277
+Nigeria,NGA,"Population, total",SP.POP.TOTL,2010,166642886.0
+Nigeria,NGA,Access to electricity (% of population),EG.ELC.ACCS.ZS,2011,55.9
+Nigeria,NGA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,2011,0.6069666472201667
+Nigeria,NGA,Forest area (% of land area),AG.LND.FRST.ZS,2011,25.35950239906892
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2011,5.307924202939148
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,2011,2418.4131697587463
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2011,51.49
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,2011,2.80278519998649
+Nigeria,NGA,"Population, total",SP.POP.TOTL,2011,171379598.0
+Nigeria,NGA,Access to electricity (% of population),EG.ELC.ACCS.ZS,2012,53.0
+Nigeria,NGA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,2012,0.5803373285423931
+Nigeria,NGA,Forest area (% of land area),AG.LND.FRST.ZS,2012,25.180196976184988
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2012,4.230061174924927
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,2012,2633.197346713614
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2012,51.688
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,2012,2.77422930277333
+Nigeria,NGA,"Population, total",SP.POP.TOTL,2012,176200625.0
+Nigeria,NGA,Access to electricity (% of population),EG.ELC.ACCS.ZS,2013,55.6
+Nigeria,NGA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,2013,0.6330287356918298
+Nigeria,NGA,Forest area (% of land area),AG.LND.FRST.ZS,2013,25.00089155330105
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2013,6.671335393082316
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,2013,2872.790833793982
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,51.827
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,2013,2.71468991073627
+Nigeria,NGA,"Population, total",SP.POP.TOTL,2013,181049443.0
+Nigeria,NGA,Access to electricity (% of population),EG.ELC.ACCS.ZS,2014,54.2
+Nigeria,NGA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,2014,0.6601836291904037
+Nigeria,NGA,Forest area (% of land area),AG.LND.FRST.ZS,2014,24.82158613041712
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2014,6.3097186552185605
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,3088.7213131616927
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,51.94
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,2014,2.64221399374699
+Nigeria,NGA,"Population, total",SP.POP.TOTL,2014,185896915.0
+Nigeria,NGA,Access to electricity (% of population),EG.ELC.ACCS.ZS,2015,52.5
+Nigeria,NGA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,2015,0.6212447333213973
+Nigeria,NGA,Forest area (% of land area),AG.LND.FRST.ZS,2015,24.64228070753319
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2015,2.652693295417791
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,2585.733606717974
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2015,51.939
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,2015,2.53617348598208
+Nigeria,NGA,"Population, total",SP.POP.TOTL,2015,190671878.0
+Nigeria,NGA,Access to electricity (% of population),EG.ELC.ACCS.ZS,2016,59.3
+Nigeria,NGA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,2016,0.6317911500856769
+Nigeria,NGA,Forest area (% of land area),AG.LND.FRST.ZS,2016,24.46297956674023
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2016,-1.616868949034668
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,2070.412733959496
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2016,52.189
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,2016,2.47183239057048
+Nigeria,NGA,"Population, total",SP.POP.TOTL,2016,195443700.0
+Nigeria,NGA,Access to electricity (% of population),EG.ELC.ACCS.ZS,2017,54.4
+Nigeria,NGA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,2017,0.5794614064730076
+Nigeria,NGA,Forest area (% of land area),AG.LND.FRST.ZS,2017,24.283683037429867
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2017,0.8058866190915808
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,1876.3402711177296
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2017,52.397
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,2017,2.43170936923065
+Nigeria,NGA,"Population, total",SP.POP.TOTL,2017,200254579.0
+Nigeria,NGA,Access to electricity (% of population),EG.ELC.ACCS.ZS,2018,56.5
+Nigeria,NGA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,2018,0.592412108680957
+Nigeria,NGA,Forest area (% of land area),AG.LND.FRST.ZS,2018,24.104384202378206
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2018,1.922757341997979
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,2057.8794455401057
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2018,52.669
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,2018,2.31217263003389
+Nigeria,NGA,"Population, total",SP.POP.TOTL,2018,204938755.0
+Nigeria,NGA,Access to electricity (% of population),EG.ELC.ACCS.ZS,2019,55.4
+Nigeria,NGA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,2019,0.6019796841350096
+Nigeria,NGA,Forest area (% of land area),AG.LND.FRST.ZS,2019,23.92508536732655
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2019,2.2084292783521136
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,3189.812864961828
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2019,53.009
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,2019,2.1944019229433
+Nigeria,NGA,"Population, total",SP.POP.TOTL,2019,209485641.0
+Nigeria,NGA,Access to electricity (% of population),EG.ELC.ACCS.ZS,2020,55.4
+Nigeria,NGA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,2020,0.5557005711237436
+Nigeria,NGA,Forest area (% of land area),AG.LND.FRST.ZS,2020,23.745786532274888
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2020,-6.368898404685268
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,2797.1845806789997
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2020,53.072
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,2020,2.13029714344341
+Nigeria,NGA,"Population, total",SP.POP.TOTL,2020,213996181.0
+Nigeria,NGA,Access to electricity (% of population),EG.ELC.ACCS.ZS,2021,59.5
+Nigeria,NGA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,2021,0.5990066704377554
+Nigeria,NGA,Forest area (% of land area),AG.LND.FRST.ZS,2021,23.56648769722323
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2021,1.1092525402490023
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,2787.487792209909
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2021,53.455
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,2021,2.09618685225463
+Nigeria,NGA,"Population, total",SP.POP.TOTL,2021,218529286.0
+Nigeria,NGA,Access to electricity (% of population),EG.ELC.ACCS.ZS,2022,60.5
+Nigeria,NGA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,2022,0.5782710368324041
+Nigeria,NGA,Forest area (% of land area),AG.LND.FRST.ZS,2022,23.387188862171566
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2022,4.318829491571364
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,2899.160474692671
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2022,54.079
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,2022,2.09281687128387
+Nigeria,NGA,"Population, total",SP.POP.TOTL,2022,223150896.0
+Nigeria,NGA,Access to electricity (% of population),EG.ELC.ACCS.ZS,2023,61.2
+Nigeria,NGA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,2023,0.5523392722522522
+Nigeria,NGA,Forest area (% of land area),AG.LND.FRST.ZS,2023,23.20789002711991
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2023,3.315903681114378
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,2138.763837187565
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2023,54.462
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,2023,2.09838916935738
+Nigeria,NGA,"Population, total",SP.POP.TOTL,2023,227882945.0
+Nigeria,NGA,Access to electricity (% of population),EG.ELC.ACCS.ZS,2024,62.5
+Nigeria,NGA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,2024,0.5669176376611951
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2024,4.071066501477034
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,2024,1084.1604180505808
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2024,54.635
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,2024,2.08297776184189
+Nigeria,NGA,"Population, total",SP.POP.TOTL,2024,232679478.0
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2025,4.01336180700973
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,2025,1224.25410237743
+Nigeria,NGA,Population growth (annual %),SP.POP.GROW,2025,2.06227178599451
+Nigeria,NGA,"Population, total",SP.POP.TOTL,2025,237527782.0
